@@ -2,7 +2,6 @@ HDiag Pro
 =========
 
 
-
 Hardware Overview
 -----------------
 - 1. HDiagPro Hardware
@@ -14,23 +13,36 @@ Hardware Overview
 - 7. USB Cable
 
 
-Creating recipes
-----------------
+Software Overview
+-----------------
+- 1. Auto Detect Vehicle Model
+- 2. Tune Manager
+- 3. Write Flash
+- 4. Read Flash
+- 5. 2D and 3D Graph Visualisation
+- 6. Interactive Table
+- 7. Real Time Data Monitoring
+- 8. ECM Recovery(K-line and Backdor)
+- 9. Diagnostic
+- 10. Verified by google play project
+- 11. Free update vehicle files
+- 12. no need internet connection for daily use
+- 13. The software license is free, you are allowed to install on multiple laptops
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+Tune Menu
+---------
+- 1. Iginition
+- 2. Fuel
+- 3. Limiters
+- 4. Disabling Sensor Fault
+- 5. Disabling Immobiilizer
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+* Item 1.
 
-For example:
+  #. Step 1.
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+  #. Step 2.
 
+* Item 2.
