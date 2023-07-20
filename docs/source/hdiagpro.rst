@@ -1,7 +1,7 @@
 HDiag Pro
-=====
+=========
 
-.. _installation:
+
 
 Installation
 ------------
