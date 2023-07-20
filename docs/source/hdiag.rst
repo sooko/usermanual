@@ -1,4 +1,4 @@
-Over View
+HDiag
 =====
 
 .. _installation:

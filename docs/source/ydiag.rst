@@ -1,4 +1,4 @@
-Over View
+YDiag
 =====
 
 .. _installation:

@@ -6,17 +6,10 @@ Contents
 --------
 
 .. toctree::
-
-   usage
-   api
-   overview
-
+   hdiagpro
+   afrmeter
+   hdiag
+   ydiag
    
-
-.. toctree::
-
-   usage
-   api
-   overview
 
    
