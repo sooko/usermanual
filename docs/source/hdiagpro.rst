@@ -39,10 +39,9 @@ Tune Menu
 - 5. Disabling Immobiilizer
 
 
-* Item 1.
-
-  #. Step 1.
-
-  #. Step 2.
-
-* Item 2.
+Usage
+---------
+- 1. Plug HDiagPro Hardware to DLC Connector in Motor Cycle
+- 2. Plug Your BLE Dongle to your PC/laptops
+- 3. Open Software 
+- 4. Press ``borderBottomColor``. Connect to ECM.
