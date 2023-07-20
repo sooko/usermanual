@@ -3,14 +3,16 @@ HDiag Pro
 
 
 
-Installation
-------------
+Hardware Overview
+-----------------
+- 1. HDiagPro Hardware
+- 2. BLE Dongle
+- 3. DLC Connector
+- 4. Euro 5 DLC Connector
+- 5. 12 volt Adaptor
+- 6. Backdor kit
+- 7. USB Cable
 
-To use Lumache, first install it using pip:
-
-.. code-block:: console
-
-   (.venv) $ pip install lumache
 
 Creating recipes
 ----------------
