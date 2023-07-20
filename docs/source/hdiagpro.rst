@@ -39,10 +39,12 @@ Tune Menu
 - 5. Disabling Immobiilizer
 
 
-Usage
----------
+First Connection
+----------------
 - 1. Plug HDiagPro Hardware to DLC Connector in Motor Cycle
 - 2. Plug Your BLE Dongle to your PC/laptops
-- 3. Open Software 
-- 4. Press :guilabel:`Connect to ECM` button the tune menu base will be opened automatically
+- 3. Open the Software 
+- 4. Press :guilabel:`Connect to ECM` button the Tune Menu will automatically open according to the type of ECU
+
+
 
